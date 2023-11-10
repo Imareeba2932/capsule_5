@@ -8,3 +8,4 @@ if(orig==pal):
     print("Pallindrome")
 else:
     print("Not Pallindrome")
+    
